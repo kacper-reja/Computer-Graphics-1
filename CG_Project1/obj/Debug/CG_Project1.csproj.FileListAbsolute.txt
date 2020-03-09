@@ -1,0 +1,10 @@
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\bin\Debug\CG_Project1.exe.config
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\bin\Debug\CG_Project1.exe
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\bin\Debug\CG_Project1.pdb
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.csprojResolveAssemblyReference.cache
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.Form1.resources
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.Properties.Resources.resources
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.csproj.GenerateResource.Cache
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.csproj.CoreCompileInputs.cache
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.exe
+C:\Users\Niszczu\source\repos\CG_Project1\CG_Project1\obj\Debug\CG_Project1.pdb
